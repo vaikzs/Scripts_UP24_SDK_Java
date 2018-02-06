@@ -1,1 +1,5 @@
-# UP24_Lib_Java (Jan 19th 2015)
+# Exporting Sleep & Moves from Jawbone
+
+
+
+Jan 19th 2015

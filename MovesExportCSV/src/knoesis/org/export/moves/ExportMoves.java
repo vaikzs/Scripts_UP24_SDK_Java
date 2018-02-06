@@ -85,7 +85,7 @@ public class ExportMoves
 			// Jawbone Authentication, Goto https://jawbone.com/up/developer/authentication for detailed information(Must Read)
 			con.setRequestProperty(
 					"Authorization",
-					"Bearer aV1SI82xvTrWLSRCG0e-xs4L2VeHYiz1xJ2T2GNvkPNC7LrLTyKlEaKxRMOeLWHsKMOqX0Y-lWCFw6yPEhcRiFECdgRlo_GULMgGZS0EumxrKbZFiOmnmAPChBPDZ5JP");
+					"Bearer <AUTHORIZATION_TOKEN>");
 
 			long j = i + del_delta;
 		
